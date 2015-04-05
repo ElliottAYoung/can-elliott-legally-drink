@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+html{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+.Answer{
+  font-size: 180px;
+}
+#Main_Title{
+  font-size: 64px;
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
